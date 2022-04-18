@@ -1,0 +1,7 @@
+[Unit]
+Description=Vampire System Maintenance Keyring Updater
+
+[Service]
+Type=oneshot
+Environment="ARG=\"%I\""
+ExecStart=/usr/lib/vampire-system-maintenance/update-packages "$ARG"

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/usr/bin/vampire-system-maintenance
+Icon=vampire-system-maintenance
+Name=Vampire System Maintenance
+Type=Application
+X-GNOME-Autostart-enabled=true
+X-KDE-autostart-after=panel

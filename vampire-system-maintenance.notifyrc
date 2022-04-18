@@ -1,0 +1,7 @@
+[Global]
+IconName=vampire-system-maintenance
+Name= System Maintenance
+
+[Event/forum]
+Name=Forum announcement post
+Action=Popup
